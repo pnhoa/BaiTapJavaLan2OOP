@@ -1,0 +1,6 @@
+ST001;Chau Cao;11-1-2001;Quang Tri;09..01000111;chaucao@gmail.com;9
+ST002;Chung Doang;22-02-2002;Quang Tri;0901000222;chungdoan@gmail.com;8
+ST003;Hoa Pham ;30-03-2003;Quang Nam;0901000333;hoapham@gmail.com;10
+ST004;Hoang  Nguyen;14-04-2004;Da Nang ;0901000444;hoangnguyen@gmail.com;7
+ST005;Hung Le;15-05-2005;Da Nang;;hungle@gmail.com;5
+ST006;Nhat Phan;16-06-2006; Da Nang;0901000555;;6
